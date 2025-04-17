@@ -1,0 +1,16 @@
+set a 34; 
+set b 2;
+
+set c [expr $a + $b]; 
+puts "The sum of $a & $b is $c";
+
+set d [expr $a $b]; 
+puts "The diff of $a & $b is $d";
+
+set d [expr $a * $b]; 
+puts "The mul of $a & $b is $d";
+
+set d [expr $a / $b]; 
+puts "The div of $a & $b is $d";
+
+Puts "Date: 16-04-2025/tDay: Wednesday";

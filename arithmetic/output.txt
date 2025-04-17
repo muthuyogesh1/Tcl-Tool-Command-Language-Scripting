@@ -1,0 +1,5 @@
+The sum of 34 & 2 is 36
+The diff of 34 & 2 is 32
+The mul of 34 & 2 is 68
+The div of 34 & 2 is 17
+Date: 16-04-2025	Day: Wednesday
