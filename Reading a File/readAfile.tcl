@@ -1,5 +1,5 @@
 set fp [open "input.txt" w+]
-puts $fp "test"
+puts $fp "Hai I'm Muthu"
 close $fp
 set fp [open "input.txt" r]
 set file_data [read $fp]
